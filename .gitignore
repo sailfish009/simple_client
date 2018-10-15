@@ -1,0 +1,8 @@
+.vs
+*.exe
+*.pdb
+*.resources
+*.g.cs
+*.g.i.cs
+debug
+obj
